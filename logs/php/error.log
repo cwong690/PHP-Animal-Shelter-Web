@@ -1,0 +1,11 @@
+[17-Jan-2020 05:53:43 UTC] PHP Parse error:  syntax error, unexpected '<' in /Users/cindywong/Local Sites/best-buds/app/public/wp-content/themes/bestbudstheme/index.php on line 8
+[17-Jan-2020 05:55:32 UTC] PHP Parse error:  syntax error, unexpected '<' in /Users/cindywong/Local Sites/best-buds/app/public/wp-content/themes/bestbudstheme/index.php on line 8
+[17-Jan-2020 05:55:35 UTC] PHP Parse error:  syntax error, unexpected '<' in /Users/cindywong/Local Sites/best-buds/app/public/wp-content/themes/bestbudstheme/index.php on line 8
+[17-Jan-2020 05:56:17 UTC] PHP Parse error:  syntax error, unexpected '<' in /Users/cindywong/Local Sites/best-buds/app/public/wp-content/themes/bestbudstheme/index.php on line 8
+[17-Jan-2020 05:56:25 UTC] PHP Parse error:  syntax error, unexpected '<' in /Users/cindywong/Local Sites/best-buds/app/public/wp-content/themes/bestbudstheme/index.php on line 8
+[17-Jan-2020 05:56:42 UTC] PHP Parse error:  syntax error, unexpected '>' in /Users/cindywong/Local Sites/best-buds/app/public/wp-content/themes/bestbudstheme/index.php on line 7
+[17-Jan-2020 05:56:51 UTC] PHP Parse error:  syntax error, unexpected '/' in /Users/cindywong/Local Sites/best-buds/app/public/wp-content/themes/bestbudstheme/index.php on line 7
+[17-Jan-2020 06:07:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/cindywong/Local Sites/best-buds/app/public/wp-content/themes/bestbudstheme/index.php on line 10
+[17-Jan-2020 06:07:25 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/cindywong/Local Sites/best-buds/app/public/wp-content/themes/bestbudstheme/index.php on line 10
+[17-Jan-2020 06:07:46 UTC] PHP Parse error:  syntax error, unexpected end of file in /Users/cindywong/Local Sites/best-buds/app/public/wp-content/themes/bestbudstheme/index.php on line 8
+[18-Jan-2020 06:52:40 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING) in /Users/cindywong/Local Sites/best-buds/app/public/wp-content/themes/bestbudstheme/functions.php on line 5
